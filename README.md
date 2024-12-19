@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shishir Bohara.</h1>
-<h3 align="center">A passionate frontend developer from Lalitpur, Nepal.</h3>
+<h3 align="center">A passionate full stack developer from Lalitpur, Nepal.</h3>
 
 - 📫 How to reach me **shishirbohara68@gmail.com**
 

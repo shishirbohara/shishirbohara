@@ -50,12 +50,4 @@
 
 
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/shishirbohara/shishirbohara/output/snake.svg" alt="Snake animation" />
-
-###
-
-###
